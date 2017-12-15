@@ -2,7 +2,7 @@
 
 # PowerUp - Android
 
-PowerUp is a female empowerment educational mobile game app that will allow young girls to learn about reproductive health 
+PowerUp is a female empowerment educational mobile game app that allows young girls to learn about reproductive health 
 and self-esteem by navigating the life of their avatar!
 
 ## Setup for Developers
